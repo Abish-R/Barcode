@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LeEcoDemoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login_screen">LeEcoDemoApp</string>
+    <string name="login_description">For assistance please call at Toll Free No.\n1800 102 8597 (10am-7pm , Monday to Sunday)</string>
+
+    <string name="App_Version">App Version (1.0)</string>
+    <string name="remember_pass">Remember Password</string>
+    <string name="hint_name">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="title_activity_accessory__reporting">Accessory_Reporting</string>
+
+
+    <string name="title_activity_dar_">DAR</string>
+    <string name="title_activity_feedback">Feedback</string>
+    <string name="title_activity_message">Message</string>
+    <string name="title_activity_support_desk">SupportDesk</string>
+    <string name="checkout">Checkout</string>
+    <string name="title_activity_reports">Reports</string>
+    <string name="title_activity_weekly_stock_reporting">WeeklyStockReporting</string>
+    <string name="title_activity_demo_reporting">DemoReporting</string>
+    <string name="title_activity_demo_reporting_bar_code_capture">DemoReportingBarCodeCapture
+    </string>
+    <string name="title_activity_reports__date__listing">Reports_Date_Listing</string>
+
+</resources>

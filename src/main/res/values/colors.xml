@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="accessory">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <color name="colorPrimary">#2980b9</color>
+    <color name="colorPrimaryDark">#195f8c</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="actionbar_opacity">#33000000</color>
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="primary_light">#C5CAE9</color>
+    <color name="accent">#c315d2</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="black">#000000</color>
+    <color name="grey">#9787a3</color>
+
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+
+    <!--<color name="colorAccentDark">#FFD940FF</color>-->
+
+    <color name="colorAccentDark">#004D40</color>
+    <color name="colorAccentLight">#FFE9B3F7</color>
+    <color name="row">#B0E0E6</color>
+    <color name="competitor">#90CAF9</color>
+
+    <color name="green_blacky">#79d279</color>
+    <color name="red_blacky">#ff9999</color>
+    <color name="grey_light">#d9d9d9</color>
+    <color name="yellow1">#FFE28A</color>
+    <color name="yellow2">#ffba00</color>
+    <color name="btntheme">#aedff9</color>
+    <color name="transparent">#00ffffff</color>
+</resources>

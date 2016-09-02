@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.aipl.leecodemoapp">
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/le_eco"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MeetingRoom"
+            android:label="@string/title_activity_login_screen"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity_new"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SupportDeskActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MessageActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FeedbackActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DAR_Activity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Accessory_Reporting"
+            android:label="@string/title_activity_accessory__reporting"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ReportsActivity"
+            android:label="@string/title_activity_accessory__reporting"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MainActivityBarcode"
+            android:label="@string/title_activity_accessory__reporting"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BarCodeCapture"
+            android:label="@string/title_activity_accessory__reporting"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".WeeklyStockReporting"
+            android:label="@string/title_activity_weekly_stock_reporting"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DemoReporting"
+            android:label="@string/title_activity_demo_reporting"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DemoReportingBarCodeCapture"
+            android:label="@string/title_activity_demo_reporting_bar_code_capture"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Competition_reporting"
+            android:label="@string/title_activity_demo_reporting"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Reports_Date_Listing"
+            android:label="@string/title_activity_reports__date__listing"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PunchInAndOut"
+            android:label="@string/title_activity_reports__date__listing"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AttendanceRegister"
+            android:label="@string/title_activity_reports__date__listing"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".LoginScreen"></activity>
+    </application>
+
+</manifest>
